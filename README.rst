@@ -1,7 +1,7 @@
 
 .. index-inclusion-marker
 
-Weighted
+Finite
 ========
 
 Add description here
